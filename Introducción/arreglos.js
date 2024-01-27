@@ -1,4 +1,4 @@
-/* 📌 Los arreglos son variables que nos permiten guardar multiples valores
+ /* 📌 Los arreglos son variables que nos permiten guardar multiples valores
 	Cada valor puede ser de cualquier tipo.
 */
 const arreglo = ['Texto', 456, true, { propiedad: 'valor' }, [0, 1, 2, 3]];
